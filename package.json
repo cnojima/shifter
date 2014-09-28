@@ -1,5 +1,5 @@
 {
-    "name": "shifter",
+    "name": "shshifter",
     "description": "New YUI build tool based on Gearjs, so let's shift some gears",
     "author": "Dav Glass <davglass@gmail.com>",
     "version": "0.5.0",
@@ -33,7 +33,7 @@
     ],
     "main": "./lib/index.js",
     "bin": {
-        "shifter": "./bin/shifter"
+        "shshifter": "./bin/shifter"
     },
     "scripts": {
         "pretest": "jshint --config ./node_modules/yui-lint/jshint.json ./lib/ ./lib/tasks/",
@@ -41,15 +41,15 @@
         "docs": "node scripts/versions.js; node ./node_modules/.bin/selleck --out ./output"
     },
     "preferGlobal": "true",
-    "bugs": { "url" : "http://github.com/yui/shifter/issues" },
+    "bugs": { "url" : "http://github.com/wf2/shifter/issues" },
     "licenses":[
         {
             "type" : "BSD",
-            "url" : "https://github.com/yui/shifter/blob/master/LICENSE"
+            "url" : "https://github.com/wf2/shifter/blob/master/LICENSE"
         }
     ],
     "repository": {
         "type":"git",
-        "url":"http://github.com/yui/shifter.git"
+        "url":"https://github.com/wf2/shifter.git"
     }
 }
