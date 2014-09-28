@@ -14,3 +14,4 @@ tests/assets/badrollup/build/*/*
 tests/assets-global
 tests/assets/freestyle/build
 coverage
+.idea
