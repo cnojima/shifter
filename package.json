@@ -2,7 +2,7 @@
     "name": "shshifter",
     "description": "New YUI build tool based on Gearjs, so let's shift some gears",
     "author": "Dav Glass <davglass@gmail.com>",
-    "version": "0.5.1",
+    "version": "0.5.2",
     "dependencies": {
         "progress": "~0.1.0",
         "ansi-color": "*",
@@ -12,7 +12,7 @@
         "yuitest-coverage": ">=0.0.5",
         "yuicompressor": "2.4.7",
         "yui-lint": "~0.2.0",
-        "jshint": "~0.9.0",
+        "jshint": "2.5.6",
         "watch": "~0.8.0",
         "cpr": "~0.0.6",
         "mkdirp": "*",
