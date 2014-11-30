@@ -2,7 +2,7 @@
   "name": "shshifter",
   "description": "New YUI build tool based on Gearjs, so let's shift some gears",
   "author": "Dav Glass <davglass@gmail.com>",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "dependencies": {
     "ansi-color": "*",
     "chalk": "^0.5.1",
